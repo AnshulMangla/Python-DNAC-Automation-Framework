@@ -1,0 +1,21 @@
+Hostname, Management IP, DeviceID, Location, SerialNumber
+9130-AP1,192.168.2.25,ff4102c4-a8e8-4b39-b5de-cc297ad79d7f,Global/Sanitarium/NSW/Central coast/Office Admin,KWC250701X0
+9300L-Site3.css-syd.cisco.com,192.168.4.2,a59b0aab-9636-49a0-86af-3993a6d828e2,,FOC2430LK07
+9300-stack.css-syd.cisco.com,192.168.2.2,266fe0fe-321d-430d-b643-ad4fbe6fa72c,,FOC2513L6FQ, FOC2513L6CH
+9500-SVL-FIAB.css-syd.cisco.com,10.66.50.152,6afb594f-716c-4d9e-aa75-1404a8369cc0,,FOC2516L7DM, FOC2516LC7A
+9800-adl-2.css-syd.cisco.com,192.168.0.88,091b94f2-3746-4ff4-a42a-4483f22ee249,,9T6K7YKWC3X
+9800-adl.css-syd.cisco.com,192.168.0.87,c5b894e7-7af5-4ac0-9082-19632b1a0647,,98PAMYWS4VF, 9NYL7ZXO6AX
+9800-cl.css-syd.cisco.com,192.168.0.10,a387666d-1aeb-45f1-bc35-0997d16295bf,,9O3OE4O9C4Y
+AFTR_SWITCH.css-syd.cisco.com,10.66.50.135,8c5c7dd4-d700-407e-9e9e-9bb29e0b9eb8,,FCW2336D0GR
+AP4800-1,10.4.4.72,4a44ab32-72f6-420c-af85-cb2ae2fa0da3,Global/Australia/SDA/Site3/Bldg3/Floor1,FGL2509LCGA
+AP548A.BA7E.0254,10.4.0.21,eed77db8-2adb-441e-af69-e9283dfe1ec4,Global/Sanitarium/QLD/BNE Manufacturing/Ground,KWC250701X1
+Border1.css-syd.cisco.com,10.0.0.1,61c9012f-dbf9-4539-aced-45dfa90f4dc0,,CAT2337L4JG
+Border2.css-syd.cisco.com,10.0.0.2,c401a202-17c5-45dc-be58-dabe7a1dabbd,,CAT2336L141
+Edge2.css-syd.cisco.com,10.0.0.6,6a4ffc58-2acf-4294-9444-e641f05d5dee,,FOC2336W0TY
+Edge3.css-syd.cisco.com,10.0.0.7,b0a4c9d1-e010-4a5e-94ae-8a727cbc8492,,FOC2336W0ND
+Fusion1.css-syd.cisco.com,10.0.0.4,86925540-0d7e-4ae8-b97e-6b404ee57d2f,,FOC2336U0PP
+sensor-edge1,192.168.1.13,ccfd01da-a9cc-49de-848f-e74d0aa0e4be,None,KWC21400DQN
+sensor-edge3,192.168.3.3,2b5eea24-2a1b-4333-a6aa-74b0254d9872,None,KWC21400DJ0
+TE09300-2.css-syd.cisco.com,192.168.1.27,c492ec36-4c61-4721-bc69-9a1aee77f586,,FCW2336C0PQ
+WLC1,192.168.0.13,41147dd5-9f79-4f27-8602-eb67e5ba36fa,,FCH2334V02L
+WS-C3850-24XU-L-2,10.66.52.101,c7d94eb6-a511-43ba-a518-61a3fbe9d42a,,FCW2042D1K8
