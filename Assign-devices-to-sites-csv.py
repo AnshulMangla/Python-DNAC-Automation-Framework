@@ -53,9 +53,9 @@ def get_inventory(api_path, token):
 
 
 if __name__ == "__main__":
-    dnac = "10.66.50.143"
+    dnac = "xx.xx.xx.xx"
     username = "admin"
-    password = "cisco!123"
+    password = "yyyy"
     # dnac = input("Please provide Cisco DNA Center target IP Address: ")
     # username = input("Please provide Cisco DNA Center username: ")
     # password = input("Please provide Cisco DNA Center password: ")
